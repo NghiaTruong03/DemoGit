@@ -1,3 +1,4 @@
 Day la file index
 chuc nang logout
 Chuc nang login
+chuc nang register
